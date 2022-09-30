@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/WIN32.dir/imageprocessing.cpp.o CMakeFiles/WIN32.dir/servermain.cpp.o -o WIN32 
